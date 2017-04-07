@@ -30,10 +30,17 @@ The measurements of the accelerator and gyroscope
 were shortened into the following abbreviations:
 
 t : time
+
 f: fast Fourier transformation
+
 B: Body
+
 X, Y, Z: the axial acceleration or angular orientation
+
 Gyro: angular velocity from the gyroscope
+
 ACC: acceleration from the accelerator
+
 std: standard deviation
+
 
